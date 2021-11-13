@@ -1,0 +1,7 @@
+fr\digi\jdbc\dao\TestInsertion.class
+fr\digi\jdbc\dao\TestUpdate.class
+fr\digi\jdbc\dao\FournisseurDaoJdbc.class
+fr\digi\jdbc\dao\TestSelect.class
+fr\digi\jdbc\dao\FournisseurDao.class
+fr\digi\jdbc\dao\TestDelete.class
+fr\digi\jdbc\dao\Fournisseur.class
